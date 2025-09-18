@@ -9,4 +9,4 @@ devtools::install_github("jyyulab/SINBA")
 
 
 ## Documents
-[SINBA]<https://github.com/jingl87/SINBA/edit/main/README.md>
+[File_link](https://github.com/jingl87/SINBA/blob/main/docs/index.html)
